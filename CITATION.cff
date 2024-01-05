@@ -1,0 +1,11 @@
+cff-version: 1.0.0
+message: If you use this software, please cite it using these details.
+authors:
+  - name: "Trần P. H. Nam"
+  - name: "Lý M. Nguyên"
+  - name: "Lê T. N. Ánh"
+title: "Xây dựng Mô hình Phân tích cảm xúc người dùng về Đại học UEH dựa trên đánh giá từ Google Maps"
+version: 0.1.0
+doi: ...
+date-released: 2024-01-06
+url: "..."
